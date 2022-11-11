@@ -1,16 +1,9 @@
-# movie_db
+# Movie DB | Acara 35
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://user-images.githubusercontent.com/99969883/201280486-3ed2ca2c-fa78-450d-bb23-eeae59218ccb.png)
+![App Screenshot](https://user-images.githubusercontent.com/99969883/201280579-e8da23ec-0d67-4c77-8544-17d78ad175d4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
