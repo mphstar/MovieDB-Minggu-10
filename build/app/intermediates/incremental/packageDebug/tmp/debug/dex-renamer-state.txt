@@ -1,0 +1,4 @@
+#Fri Nov 11 00:02:50 WIB 2022
+base.0=/mnt/naise/Mphstar/Android/Project/Workshop Mobile/API Movies - Minggu 10/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
